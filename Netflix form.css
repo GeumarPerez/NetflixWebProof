@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;600&display=swap');
+/*Estilos de personalizados del body*/
+body{
+	background-image: url("images/Netflix background.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: 'Rubik', sans-serif;;
+}
+
+h1{
+	font-weight: 600;
+}
+
+h2{
+	font-weight: 600;
+}
+
+a{
+	text-decoration: none;
+}
